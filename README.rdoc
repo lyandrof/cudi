@@ -1,4 +1,4 @@
-== cudi v 0.5 beta early version
+== cudi v 0.5 
 
 Cudi es un gestor de proyectos basado en web. Incluye personal, tareas, notificaciones, reportes, gráficas comparativas, composición de pdf y mucho más.
  
@@ -34,7 +34,7 @@ Cudi es un gestor de proyectos basado en web. Incluye personal, tareas, notifica
 
 
 
-== Welcome to cudi v 0.5 beta
+== Welcome to cudi v 0.5 
 
 This is the first version of cudi.
 
